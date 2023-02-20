@@ -1,0 +1,98 @@
+commit 2711a668bf2b3d458f9495a2aa96ff8224d66d43
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 15:15:52 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 2d7262ea030219388acc766671e6700a599f43a9
+Merge: 294cc04 93d0f5a
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 15:07:28 2023 -0300
+
+    Merge branch 'main' of https://github.com/mrtnbar/git-curso-jonm
+
+commit 294cc04a56d83e55222f187dc73c6613b83b988c
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 14:40:06 2023 -0300
+
+    Agregando las estaciones del año con fechas
+
+commit 93d0f5ac341c1fc858c3a40e25b1f072f9e8fce9
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 14:40:06 2023 -0300
+
+    Agregando las estaciones del año
+
+commit de8767df4079f6dee34824a687c7980463d422bd
+Merge: c52b50b 9f941d9
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 14:21:27 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 9f941d91fdce7340e8b05556c78ecab03f883769
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 14:15:23 2023 -0300
+
+    Agregando index.js a index.html
+
+commit c52b50b81de26da2f5bfa34f19bbad770b95f985
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 14:13:32 2023 -0300
+
+    Agregando style.css a index.html
+
+commit 6baa5ff8f84ad63252b1831ae1251e415fb9a4a1
+Merge: a70e4e2 a5e5d06
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 14:06:13 2023 -0300
+
+    Añadiendo cambios de index.js
+
+commit a5e5d06801a2b8ca6760ce75b26778b153ba1505
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 10:36:47 2023 -0300
+
+    Creando index.js
+
+commit a70e4e21f6b718af0202273690c28e52c0404db1
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 10:33:06 2023 -0300
+
+    Creando style.css
+
+commit 6f1209e7e6fc2652de44ee76cf6d0df4eb206804
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 10:29:57 2023 -0300
+
+    Creando index.html
+
+commit 49ffa2312c17165828de7dae07818bca445ff565
+Author: Martin Barbero <barberomartin98@gmail.com>
+Date:   Mon Feb 20 09:56:01 2023 -0300
+
+    Ignorando archivos .exe
+
+commit 01140fd06ff01a55a38e01462f696e0c5ac47bf1
+Author: Martín Barbero <120204552+mrtnbar@users.noreply.github.com>
+Date:   Thu Feb 16 14:10:12 2023 -0300
+
+    Creando licencia del repositorio
+
+commit e1bff2e9a8eb350f50fb65066afe7f3fe3b28007
+Author: MrtnBar <barberomartin98@gmail.com>
+Date:   Thu Feb 16 14:03:30 2023 -0300
+
+    Agregando más contenido al README
+
+commit ee8444b4dc66b9c7e91b9523d0363b47530611c6
+Author: MrtnBar <barberomartin98@gmail.com>
+Date:   Thu Feb 16 12:29:15 2023 -0300
+
+    Agregando contenido inical al README
+
+commit b56431754e570326e9b26056478ad5ea2151e46a
+Author: MrtnBar <barberomartin98@gmail.com>
+Date:   Thu Feb 16 12:22:59 2023 -0300
+
+    Primer Commit :)

@@ -1,0 +1,23 @@
+* 2711a66 Agregando 2 párrafos
+*   2d7262e Merge branch 'main' of https://github.com/mrtnbar/git-curso-jonm
+|\  
+| * 93d0f5a Agregando las estaciones del año
+* | 294cc04 Agregando las estaciones del año con fechas
+|/  
+*   de8767d Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 9f941d9 Agregando index.js a index.html
+* | c52b50b Agregando style.css a index.html
+* |   6baa5ff Añadiendo cambios de index.js
+|\ \  
+| * | a5e5d06 Creando index.js
+* | | a70e4e2 Creando style.css
+| |/  
+|/|   
+* | 6f1209e Creando index.html
+|/  
+* 49ffa23 Ignorando archivos .exe
+* 01140fd Creando licencia del repositorio
+* e1bff2e Agregando más contenido al README
+* ee8444b Agregando contenido inical al README
+* b564317 Primer Commit :)
